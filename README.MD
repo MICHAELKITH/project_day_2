@@ -5,7 +5,7 @@
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse Hello world project README Template</b></h3>
+  <h3><b>Microverse Hello world project</b></h3>
 
 </div>
 
